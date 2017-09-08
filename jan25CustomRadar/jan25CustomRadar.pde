@@ -7,6 +7,8 @@
  *  by Dejan Nedelkovski, 
  *  www.HowToMechatronics.com
  *  
+ *  Modified according to the goals for our project.
+ *  
  */
 import processing.serial.*; // imports library for serial communication
 import java.awt.event.KeyEvent; // imports library for reading the data from the serial port
