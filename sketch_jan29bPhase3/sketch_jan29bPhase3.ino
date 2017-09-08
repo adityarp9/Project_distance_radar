@@ -79,9 +79,6 @@ void loop()
   }
 }
 
-// Function for rotation of motor
-
-
 // Function for calculating the distance measured by the Ultrasonic sensor
 int calculateDistance()
 { 
