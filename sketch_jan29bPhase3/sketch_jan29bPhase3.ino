@@ -1,3 +1,15 @@
+/*   Distance finder + Radar project
+ *      
+ *  by Aditya R. Patgaonkar  
+ *  LinkedIn profile : https://www.linkedin.com/in/aditya-patgaonkar-9aa657113
+ *  & Patanjali Dwivedi
+ *  LinkedIn profile : https://www.linkedin.com/in/vidyutdwivedi
+ 
+ *  with some references from Dejan Nedelkovski, 
+ *  www.HowToMechatronics.com
+ *  
+ */
+
 #include <dht.h>
 // Includes the Servo library
 #include <Servo.h>
